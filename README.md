@@ -5,7 +5,7 @@
 
 - Social Media accounts
   - My Instagram Profile : https://instagram.com/dhruvbh245?igshid=ZDdkNTZiNTM=
-  - My LinkedIn Profile : linkedin.com/in/dhruv-bhalodia-957984257
+  - My LinkedIn Profile : https://linkedin.com/in/dhruv-bhalodia-957984257
   - My email : dhruvbhalodia0204@gmail.com
 
 - My skills
