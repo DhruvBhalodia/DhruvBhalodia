@@ -12,5 +12,5 @@
     - Languages : JAVA, C, HTML, CSS, JavaScript
 
 - Competitive Profiles
-    - CodeChef : dhruvbhalodia (https://www.codechef.com/users/dhruvbhalodia)
-    - LeetCode : dhruvbhalodia0204 (https://leetcode.com/dhruvbhalodia0204/)
+    - CodeChef : https://www.codechef.com/users/dhruvbhalodia
+    - LeetCode : https://leetcode.com/dhruvbhalodia0204/
