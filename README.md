@@ -3,9 +3,8 @@
 - I’m interested in Competitive Programming, Block Chain and ML-AI
 - I’m currently learning Web Development
 
-- Social Media accounts
-  - My LinkedIn Profile : https://linkedin.com/in/dhruv-bhalodia-957984257
-  - My email : dhruvbhalodia0204@gmail.com
+- My LinkedIn Profile : https://linkedin.com/in/dhruv-bhalodia-957984257
+- My email : dhruvbhalodia0204@gmail.com
 
 - My skills
    -Languages: Java (Proficient), Python, C, SQL, HTML, CSS, JavaScript
