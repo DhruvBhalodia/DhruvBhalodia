@@ -4,13 +4,15 @@
 - I’m currently learning Web Development
 
 - Social Media accounts
-  - My Instagram Profile : https://instagram.com/dhruvbh245?igshid=ZDdkNTZiNTM=
   - My LinkedIn Profile : https://linkedin.com/in/dhruv-bhalodia-957984257
   - My email : dhruvbhalodia0204@gmail.com
 
 - My skills
-    - Languages : JAVA, C, HTML, CSS, JavaScript
+   -Languages: Java (Proficient), Python, C, SQL, HTML, CSS, JavaScript
+   -Frameworks: Hibernate, Spring, Node.js, React.js, Express.js, PyTorch, TensorFlow, Tailwind CSS
+   -Technologies: MongoDB, MySQL, JDBC, Git, GitHub, Pandas, NumPy, Matplotlib, Seaborn
+   -Core Concepts: DSA, OOP, DBMS, OS, Computer Networks, Artificial Intelligence, Machine Learning 
 
 - Competitive Profiles
-    - CodeChef : https://www.codechef.com/users/dhruvbhalodia
-    - LeetCode : https://leetcode.com/dhruvbhalodia0204/
+    - CodeChef : https://www.codechef.com/users/dhruvbhalodia0
+    - LeetCode : https://leetcode.com/u/Dhruv_Bhalodia/
