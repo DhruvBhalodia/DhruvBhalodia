@@ -6,7 +6,7 @@
 - My LinkedIn Profile : https://linkedin.com/in/dhruv-bhalodia-957984257
 - My email : dhruvbhalodia0204@gmail.com
 
-- My skills
+- My skills  
    -Languages: Java (Proficient), Python, C, SQL, HTML, CSS, JavaScript  
    -Frameworks: Hibernate, Spring, Node.js, React.js, Express.js, PyTorch, TensorFlow, Tailwind CSS  
    -Technologies: MongoDB, MySQL, JDBC, Git, GitHub, Pandas, NumPy, Matplotlib, Seaborn  
