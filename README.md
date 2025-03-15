@@ -7,9 +7,9 @@
 - My email : dhruvbhalodia0204@gmail.com
 
 - My skills  
-   -Languages: Java (Proficient), Python (Intermediate), C, SQL, HTML, CSS, JavaScript \n
-   -Frameworks: Node.js, React.js, Express.js, PyTorch, TensorFlow, Tailwind CSS, Spring (Intermediate) \n
-   -Technologies: MongoDB, MySQL, JDBC, Git, GitHub, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Selenium \n
+   -Languages: Java (Proficient), Python (Intermediate), C, SQL, HTML, CSS, JavaScript  
+   -Frameworks: Node.js, React.js, Express.js, PyTorch, TensorFlow, Tailwind CSS, Spring (Intermediate)  
+   -Technologies: MongoDB, MySQL, JDBC, Git, GitHub, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Selenium  
    -Core Concepts: DSA, OOP, DBMS, OS, Computer Networks, Artificial Intelligence, Machine Learning
 
 
