@@ -5,7 +5,7 @@ Software Engineer & AI Engineer focused on intelligent systems, developer tools,
 - Creator of `nodox-cli` — automatic API documentation generation for Express.js
 - Interested in AI systems, LLM applications, backend engineering, and developer infrastructure
 - Strong problem-solving background with Top 3.33% ranking on LeetCode and 4★ on CodeChef
-- B.Tech in Computer Science from IIIT Vadodara ICD
+- B.Tech in Computer Science from IIIT Vadodara
 
 ---
 
