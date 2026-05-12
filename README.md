@@ -1,73 +1,60 @@
-# 👋 Hi, I’m Dhruv Bhalodia
+# Dhruv Bhalodia
 
-🎓 Student @ IIIT Vadodara - International Campus, Diu  
-💻 Aspiring Master Software Engineer | Passionate about CP, AI/ML, and Data Science  
-🌱 Currently learning: Full-Stack Web Development
+Software Engineer & AI Engineer focused on intelligent systems, developer tools, and scalable software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dhruv-bhalodia-957984257)  
-📫 Email: dhruvbhalodia0204@gmail.com
-
----
-
-## 💫 About Me
-
-- 🧠 I love solving problems and optimizing solutions
-- 🌐 Exploring AI/ML and Data Science innovations
-- 📈 Focused on improving real-world project building and deep system understanding
-- 💬 Ask me about: DSA, Java, Web Dev, ML projects, CP strategies
-- ⚡ Fun Fact: I’m addicted to debugging more than coffee ☕️🛠️
-- 🏅 Former Secretary of the Coding Club **DCodr**
+- Creator of `nodox-cli` — automatic API documentation generation for Express.js
+- Interested in AI systems, LLM applications, backend engineering, and developer infrastructure
+- Strong problem-solving background with Top 3.33% ranking on LeetCode and 4★ on CodeChef
+- B.Tech in Computer Science from IIIT Vadodara ICD
 
 ---
 
-## 🛠️ My Skills
+## Current Focus
 
-**Languages:**  
-`Java (Proficient)` | `Python (Intermediate)` | `C` | `SQL` | `HTML` | `CSS` | `JavaScript`
-
-**Frameworks:**  
-`Node.js` | `React.js` | `Express.js` | `Spring (Intermediate)` | `Tailwind CSS` | `PyTorch` | `TensorFlow`
-
-**Technologies & Tools:**  
-`MongoDB` | `MySQL` | `JDBC` | `Git` | `GitHub` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `BeautifulSoup` | `Selenium`
-
-**Core Concepts:**  
-`DSA` | `OOP` | `DBMS` | `OS` | `Computer Networks` | `Artificial Intelligence` | `Machine Learning`
+- Building AI-powered tools and intelligent systems
+- Exploring LLM workflows and developer automation
+- Designing scalable backend architectures
+- Open-source development and developer experience tooling
 
 ---
 
-## 🧠 Competitive Programming Profiles
+## Tech Stack
 
-- 🧮 [CodeChef Profile](https://www.codechef.com/users/dhruvbhalodia0)
-- 🧩 [LeetCode Profile](https://leetcode.com/u/Dhruv_Bhalodia/)
+### Languages
+JavaScript • TypeScript • Python • Java • SQL
 
----
+### Backend & Infrastructure
+Node.js • Express.js • MongoDB • REST APIs • Docker • Git
 
-## 📊 GitHub Stats
+### AI / ML
+PyTorch • TensorFlow • scikit-learn • NLP • LLM Applications
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvBhalodia&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvBhalodia&layout=compact&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com?user=DhruvBhalodia&theme=tokyonight)
-
----
-
-## 🔍 Highlight Projects (To Pin)
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 📝 Teacher's Blackboard | A tool to explain topics to student effectively and premium inbuilt tools like sine curve, graph etc. | React.js, Node.js, Express.js|
-| 📦 Smart Classifier | Classifies 'buy/sell' type based on multilingual (Gujarati/Hindi/English) description using ML | Python, scikit-learn, Flask |
----
-
-## 🎯 Goals for 2025
-
-```txt
-1. Contribute to real-world open source.
-2. Master system design & devops tools.
-3. Deepen expertise across my 3 core domains: Web Development, Machine Learning, and Data Science.
-4. Leverage learnings from my 2 internships to build impactful projects.
-```
+### Frontend
+React.js • Next.js • Tailwind CSS
 
 ---
 
-> "Discipline + Curiosity = Success"
+## Featured Projects
+
+### nodox-cli
+FastAPI-like automatic API documentation generation for Express.js applications with intelligent schema detection and zero Swagger annotation maintenance.
+
+### Smart Classifier
+Multilingual ML classification system supporting Gujarati, Hindi, and English text processing.
+
+### Teacher’s Blackboard
+Interactive educational platform with built-in visualization and graphing tools for concept explanation.
+
+---
+
+## Competitive Programming
+
+- LeetCode: Top 3.33% (Rating: 1949)
+- CodeChef: 4★
+
+---
+
+## Connect
+
+- LinkedIn: linkedin.com/in/dhruv-bhalodia-957984257
+- Email: dhruvbhalodia0204@gmail.com
