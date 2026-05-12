@@ -21,7 +21,7 @@ Software Engineer & AI Engineer focused on intelligent systems, developer tools,
 ## Tech Stack
 
 ### Languages
-JavaScript • TypeScript • Python • Java • SQL
+Java • JavaScript • TypeScript • Python • Java • SQL
 
 ### Backend & Infrastructure
 Node.js • Express.js • MongoDB • REST APIs • Docker • Git
